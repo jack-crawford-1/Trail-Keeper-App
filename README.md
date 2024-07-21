@@ -4,9 +4,9 @@ Trail keeper is a feature-rich web application currently in development, designe
 
 See source code:
 
-[https://github.com/jack-crawford-1/trail-keeper-server](url)
+[[https://github.com/jack-crawford-1/trail-keeper-server](url)](https://github.com/jack-crawford-1/trail-keeper-client)
 
-[https://github.com/jack-crawford-1/trail-keeper-client](url)
+[[https://github.com/jack-crawford-1/trail-keeper-client](url)](https://github.com/jack-crawford-1/trail-keeper-server)
 
 
 <img width="1460" alt="image 6" src="https://github.com/user-attachments/assets/124b6bd8-0e49-4c2a-bfa0-4475ed2d3665">
