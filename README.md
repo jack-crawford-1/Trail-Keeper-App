@@ -26,6 +26,11 @@ In this post, I&apos;ve tried to walk through my process in
 
 <img width="620" alt="image 2" src="https://github.com/user-attachments/assets/c9dd4240-5de2-46fb-a13e-c75730d6e359">
 
+## Search for track page:
+
+<img width="493" alt="image 4" src="https://github.com/user-attachments/assets/4a0266bb-490b-4bb8-b1b2-216569d3a8de">
+
+
 
 ## Tech Stack:
 ### Frontend:
