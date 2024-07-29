@@ -11,8 +11,9 @@ See source code:
 
 
 
-<img width="1460" alt="image 6" src="https://github.com/user-attachments/assets/124b6bd8-0e49-4c2a-bfa0-4475ed2d3665">
+
 Current dashboard mockup with maps component integrated
+<img width="1470" alt="image 14" src="https://github.com/user-attachments/assets/cc0b6ca9-e38d-45d2-840a-ae623674daae">
 
 ##
 
@@ -24,11 +25,19 @@ In this post, I&apos;ve tried to walk through my process in
             component that displays hiking routes and points of interest [https://jackcrawford.co.nz/articles/custom-maps](url)
 
 
-<img width="620" alt="image 2" src="https://github.com/user-attachments/assets/c9dd4240-5de2-46fb-a13e-c75730d6e359">
 
-## Search for track page:
 
-<img width="493" alt="image 4" src="https://github.com/user-attachments/assets/4a0266bb-490b-4bb8-b1b2-216569d3a8de">
+
+##
+
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/f77a183e-88b9-44c2-a205-00ffd20e0f8d">
+
+<img width="1450" alt="image" src="https://github.com/user-attachments/assets/af29d491-fa5e-423d-a973-02d70a57a658">
+
+
+##
+
+
 
 
 
