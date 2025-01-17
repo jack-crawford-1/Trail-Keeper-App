@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "package.json",
+    "nodemon.json",
+    "src/",
+    "env/"
+  ],
+  "verbose": true,
+  "ignore": ["*.test.js", "*.spec.js"]
+}
